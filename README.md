@@ -1,10 +1,1 @@
-- 👋 Hi, I’m @farildev
-- 👀 I’m interested in Web Development & UI/UX Design
-- 🌱 I’m currently learning React & Vue.js
-- 💞️ I’m working with my freelancer team
-- 📫 I have been working in this field for a long time and I have always had a great passion for this field.
-
-<!---
-farildev/farildev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+###  My Github stats:     <div align=center>   <img width="400" src="https://github-readme-stats.vercel.app/api?username=CavidH&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />   <img width="400"  src="https://github-readme-streak-stats.herokuapp.com/?user=CavidH&theme=tokyonight&hide_border=true" />   <img align="left"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=CavidH&show_icons=true&theme=tokyonight&layout=compact" alt="developer-metalhead" />    </div>    <br>  <div align=center>      | ![](https://komarev.com/ghpvc/?username=farildev&color=blue) |     *started counting on 23/09/2021    </div>  <!-- <div align=center>   <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CavidH&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" /> </div> -->  <br>  [//]: # (started counting on 23/09/2021)       ## Connect with me:  <p align = "center">  [<img src="https://img.shields.io/bad
