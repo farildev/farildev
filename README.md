@@ -4,7 +4,7 @@
 <div align=center>
   <img width="400" src="https://github-readme-stats.vercel.app/api?username=farildev&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
   <img width="400"  src="https://github-readme-streak-stats.herokuapp.com?user=farildev&theme=tokyonight&hide_border=true" />
-  <img align="left"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farildev&layout=compact)](https://github.com/anuraghazra/github-readme-stats" alt="developer-metalhead" />  
+  <img align="left"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=farildev&show_icons=true&theme=tokyonight&layout=compact" alt="developer-metalhead" />  
 
 </div>
  
@@ -20,7 +20,7 @@
 </div>
 
 <!-- <div align=center>
-  <img width="350" src="![Faril's GitHub stats](https://github-readme-stats.vercel.app/api?username=farildev&theme=dark&show_icons=true)" />
+  <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farildev&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" />
 </div> -->
 
 <br>
@@ -49,3 +49,4 @@
 
 
 </p>
+
