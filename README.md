@@ -10,18 +10,7 @@
 - :thinking: I’m currently open for: `An Intern` or a new `job opportunity`.
 - :nerd_face: Always `learning new things`
 
-<br>
-
-## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=farildev&theme=algolia" alt="farildev" /></p>
-
-<br>
-<br>
-
-
-
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> <p align="center">Connect with me</p>
 <p align="center">
 	<a href="mailto:memmedovfaril@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://github.com/farildev"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
