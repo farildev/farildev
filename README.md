@@ -7,7 +7,7 @@
 - :school: I am a `Junior` Front developer & Computer Engineering `Student`
 - :technologist: I love using Software as a solution for every `Problem`
 - :student: I’m currently learning: `Computer Engineering` and `Software Development`.
-- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`.
+- :thinking: I’m currently open for: `Platon Tech`.
 - :nerd_face: Always `learning new things`
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> <p align="center">Connect with me</p>
