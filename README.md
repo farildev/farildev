@@ -34,16 +34,7 @@
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
 
-----
 
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/farildev"><img alt="farildev's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=farildev&custom_title=farildev's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
-
-<br/>
-
------
 Credits: [farildev](https://github.com/farildev)
 
 Last Edited on: 07/06/2022
