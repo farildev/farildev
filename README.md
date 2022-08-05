@@ -4,11 +4,11 @@
 </p>
 
 ## :sassy_man:  About me
-- :school: I am a `Junior` Front developer & Computer Engineering `Student`
-- :technologist: I love using Software as a solution for every `Problem`
-- :student: I’m currently learning: `Computer Engineering` and `Software Development`.
-- :thinking: I’m currently working for: `Platon Tech`.
-- :nerd_face: Always `learning new things`
+- :school: I am a Junior Front developer & Computer Engineering Student
+- :technologist: I love using Software as a solution for every Problem
+- :student: I’m currently learning: Computer Engineering` and Software Development.
+- :thinking: I’m currently working for: Platon Tech.
+- :nerd_face: Always learning new things
 
 <p align="center">
 	<a href="mailto:memmedovfaril@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
