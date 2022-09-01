@@ -18,23 +18,3 @@
 	<a href="https://www.instagram.com/thefaril/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
 
 </p>
-
-## 📊 Github Stats
-
-
-
-  <summary><b>💻 GitHub Profile Stats</b></summary>
-  <br/>
-  <p align="center">
-    <a href="https://github.com/farildev/github-readme-stats"><img alt="farildev's Github Stats" src="https://github-readme-stats.vercel.app/api?username=farildev&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
-<br/>
-  &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=farildev&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="farildev" height="192px"/>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  </p>
-
-
-Credits: [farildev](https://github.com/farildev)
-
-Last Edited on: 07/06/2022
