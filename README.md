@@ -11,10 +11,10 @@
 - :nerd_face: Always learning new things
 
 <p align="center">
-	<a href="mailto:memmedovfaril@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://github.com/farildev"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/faril-mammadov-8065a0232/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+	<a href="mailto:memmedovfaril@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=modern&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="https://github.com/farildev"><img src="https://img.shields.io/badge/github-%23181717.svg?style=modern&logo=github&logoColor=white" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/faril-mammadov-8065a0232/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=modern&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 	<a href="https://www.facebook.com/faril.memmedov.9/"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=modern&logo=facebook&logoColor=white" alt="Facebook"/></a>
-	<a href="https://www.instagram.com/thefaril/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
+	<a href="https://www.instagram.com/thefaril/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=modern&logo=instagram&logoColor=white" alt="Instagram"/></a>
 
 </p>
