@@ -7,7 +7,7 @@
 - :school: I am a Junior Front developer & Computer Engineering Student
 - :technologist: I love using Software as a solution for every Problem
 - :student: I’m currently learning: Computer Engineering` and Software Development.
-- :thinking: I’m currently working for: Platon Tech.
+- :thinking: I’m currently working Remote development.
 - :nerd_face: Always learning new things
 
 <p align="center">
